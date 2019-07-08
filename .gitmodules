@@ -1,3 +1,3 @@
-[submodule "modB/modA"]
-	path = modB/modA
+[submodule "modB/modAxB"]
+	path = modB/modAxB
 	url = git@github.com:raciborp/ModA.git

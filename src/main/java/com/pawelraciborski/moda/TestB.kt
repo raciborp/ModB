@@ -1,5 +1,7 @@
 package com.pawelraciborski.moda
 
+import com.pawelraciborski.moda.featurec.TestA
+
 object TestB {
-    fun hello() = "Hello B"
+    fun hello() = TestA.featureC()
 }
