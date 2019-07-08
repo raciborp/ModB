@@ -1,4 +1,4 @@
-package com.pawelraciborski.moda
+package com.pawelraciborski.modb
 
 import com.pawelraciborski.moda.featurec.TestA
 
